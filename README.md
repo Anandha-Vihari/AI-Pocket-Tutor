@@ -29,11 +29,11 @@ It’s like having a personal learning companion that’s always there when you 
 ### Clone the repository
 HTTPS:
 ```
-git clone https://github.com/Millenium-Falcons/Pocket-Tutor.git
+git clone https://github.com/Anandha-Vihari/AI-Pocket-Tutor.git
 ```
 or, SSH:
 ```
-git clone git@github.com:Millenium-Falcons/Pocket-Tutor.git
+git clone git@https://github.com/Anandha-Vihari/AI-Pocket-Tutor.git
 ```
 using either of the command should clone the main branch into your local storage. Now we are ready to set it up further.
 ### Database
