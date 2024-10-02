@@ -52,7 +52,7 @@ Each collection should have the following fields respectively with their respect
 If correctly configured to these parameters, now you are good to go ahead.
 
 ### Frontend
-***<a href="https://github.com/avirup-ghosal"> Avirup Ghosal</a> & <a href="https://github.com/ImonChakraborty"> Imon Chakraborty</a> are responsible for the creation and maintanace of the whole frontend. The website is written using a javascript framework React.js. For setting up the frontend, please read the following instructions:***
+The website is written using a javascript framework React.js. For setting up the frontend, please read the following instructions:***
 
 Navigate into the cloned repository and go inside the `Frontend` directory
 ```
@@ -64,7 +64,7 @@ now use `npm` to execute the frontend over your localhost
 npm run dev
 ```
 ### Gemini Assistant
-***<a href="https://github.com/mintRaven-05"> Debjeet Banerjee</a> is responsible for the creation and maintanace of the whole Google GenAI Gemini Assistant. It is written in python and is deployed in the form of an API using FastAPI. It is responsible for processing text, images and documents for providing constructive responses. For setting up the GenAI, please read the following instructions:***
+It is written in python and is deployed in the form of an API using FastAPI. It is responsible for processing text, images and documents for providing constructive responses. For setting up the GenAI, please read the following instructions:***
 
 Navigate in the cloned repository and go inside the `gemini_assistant` directory
 ```
@@ -90,7 +90,7 @@ python -m uvicorn deploy:app --reload
 And you can now use this GenAI API over your localhost **(127.0.0.1:8000)**
 
 ### Backend
-***<a href="https://github.com/hritesh-saha"> Hritesh Saha</a> is responsible for the creation and maintanace of the whole backend for this project. It is written in a node.js framework called Express.js, and it serves as an medium for the frontend and the generative AI to communicate. For setting up the backend, please read the following instructions:***
+It is written in a node.js framework called Express.js, and it serves as an medium for the frontend and the generative AI to communicate. For setting up the backend, please read the following instructions:***
 
 Navigate into the cloned repository and go inside the `backend` directory
 ```
